@@ -1,0 +1,15 @@
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\bin\Debug\net7.0\HF1-OBJProgramming-BankProject.exe
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\bin\Debug\net7.0\HF1-OBJProgramming-BankProject.deps.json
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\bin\Debug\net7.0\HF1-OBJProgramming-BankProject.runtimeconfig.json
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\bin\Debug\net7.0\HF1-OBJProgramming-BankProject.dll
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\bin\Debug\net7.0\HF1-OBJProgramming-BankProject.pdb
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.csproj.AssemblyReference.cache
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.AssemblyInfo.cs
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.dll
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\refint\HF1-OBJProgramming-BankProject.dll
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.pdb
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\HF1-OBJProgramming-BankProject.genruntimeconfig.cache
+C:\Users\Anna\source\repos\School\HF -1\HF1-OBJProgramming-BankProject\HF1-OBJProgramming-BankProject\obj\Debug\net7.0\ref\HF1-OBJProgramming-BankProject.dll
